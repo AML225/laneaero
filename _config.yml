@@ -1,9 +1,9 @@
-title:              Clean Blog
-email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
+title:              Lane Aerospace
+email:              andrew@laneaero.com
+description:        Aerospace Solutions and Hardware Sourcing
 author:             Start Bootstrap
-baseurl:            "/startbootstrap-clean-blog-jekyll"
-url:                "https://startbootstrap.github.io"
+baseurl:            "/index.html"
+url:                "https://laneaero.com"
 
 # Social Profiles
 twitter_username:   SBootstrap
